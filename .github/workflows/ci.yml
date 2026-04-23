@@ -1,4 +1,4 @@
-name: Image Vulnerability Scan
+name: CI
 
 on:
   push:
